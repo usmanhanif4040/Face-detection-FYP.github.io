@@ -1,4 +1,5 @@
 # Gender and age detection
+We are using Android studio and pycharm community software including python and OpenCV library.
 
 # Functionality and Features
 
